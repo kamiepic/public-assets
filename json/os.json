@@ -37,8 +37,10 @@
               "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server and location you want. And finally, connect from the slide to connect section.",
               "faStepText": "مرحله ۳: ابتدا از منو پایین وارد صفحه configs شوید. سپس سرور و لوکیشن مورد نظر را انتخاب کرده. و درنهایت از بخش slide to connect متصل شوید.",
               "stepImage": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/tutorials/v2box/3.jpg"
-            },
-{
+            }
+          ]
+        },
+        {
           "name": "Streisand",
           "price": "0",
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/streisand.jpg",
