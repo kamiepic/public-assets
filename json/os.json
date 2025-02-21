@@ -14,60 +14,60 @@
           "downloadLink": "https://apps.apple.com/us/app/happ-proxy-utility/id6504287215"
         },
         {
-          "name": "Streisand",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/icons/streisand.jpg",
-          "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
-          "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
-          "configLink": "streisand://import/{url}",
-          "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
-          "tutorialSteps": [
-            {
-              "stepText": "Step 1: Download and install the Streisand app from the App Store.",
-              "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
-              "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/streisand/1.jpg"
-            },
-            {
-              "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
-              "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
-              "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/streisand/2.jpg"
-            },
-            {
-              "stepText": "Step 3: Choose your server location.",
-              "faStepText": "مرحله ۳: مکان سرور خود را انتخاب کنید.",
-              "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/streisand/3.jpg"
-            },
-            {
-              "stepText": "Step 4: Click on the connect button (blue).",
-              "faStepText": "مرحله ۴: بر روی دکمه اتصال (آبی) کلیک کنید.",
-              "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/streisand/4.jpg"
-            }
-          ]
-        },
-        {
-          "name": "V2box",
-          "price": "0",
-          "logo": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/icons/v2box.png",
-          "description": "A cross-platform V2Ray client.",
-          "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
-          "configLink": "v2box://install-sub?url={url}&name=SUBnew",
-          "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
-          "tutorialSteps": [
-            {
-              "stepText": "Step 1: Download and install the V2box app from the App Store.",
-              "faStepText": "مرحله ۱: برنامه وی تو باکس را از اپ استور دانلود و نصب کنید.",
-              "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/v2box/1.jpg"
-            },
-            {
-              "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
-              "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
-              "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/v2box/2.jpg"
-            },
-            {
-              "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server and location you want. And finally, connect from the slide to connect section.",
-              "faStepText": "مرحله ۳: ابتدا از منو پایین وارد صفحه configs شوید. سپس سرور و لوکیشن مورد نظر را انتخاب کرده. و درنهایت از بخش slide to connect متصل شوید.",
-              "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/v2box/3.jpg"
-            }
+    "name": "V2box",
+    "price": "0",
+    "logo": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/icons/v2box.png",
+    "description": "A cross-platform V2Ray client.",
+    "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
+    "configLink": "v2box://install-sub?url={url}&name=SUBnew",
+    "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
+    "tutorialSteps": [
+      {
+        "stepText": "Step 1: Download and install the V2box app from the App Store.",
+        "faStepText": "مرحله ۱: برنامه وی تو باکس را از اپ استور دانلود و نصب کنید.",
+        "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/v2box/1.jpg"
+      },
+      {
+        "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
+        "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
+        "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/v2box/2.jpg"
+      },
+      {
+        "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server and location you want. And finally, connect from the slide to connect section.",
+        "faStepText": "مرحله ۳: ابتدا از منو پایین وارد صفحه configs شوید. سپس سرور و لوکیشن مورد نظر را انتخاب کرده. و درنهایت از بخش slide to connect متصل شوید.",
+        "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/v2box/3.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Streisand",
+    "price": "0",
+    "logo": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/icons/streisand.jpg",
+    "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
+    "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
+    "configLink": "streisand://import/{url}",
+    "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
+    "tutorialSteps": [
+      {
+        "stepText": "Step 1: Download and install the Streisand app from the App Store.",
+        "faStepText": "مرحله ۱: برنامه استرایزند را از اپ استور دانلود و نصب کنید.",
+        "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/streisand/1.jpg"
+      },
+      {
+        "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
+        "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
+        "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/streisand/2.jpg"
+      },
+      {
+        "stepText": "Step 3: Choose your server location.",
+        "faStepText": "مرحله ۳: مکان سرور خود را انتخاب کنید.",
+        "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/streisand/3.jpg"
+      },
+      {
+        "stepText": "Step 4: Click on the connect button (blue).",
+        "faStepText": "مرحله ۴: بر روی دکمه اتصال (آبی) کلیک کنید.",
+        "stepImage": "https://raw.githubusercontent.com/kamiepic/public-assets/refs/heads/main/tutorials/streisand/4.jpg"
+      }
           ]
         }
       ]
