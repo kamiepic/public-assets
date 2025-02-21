@@ -6,7 +6,7 @@
       "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Apple_logo_black.svg",
       "apps": [
         {
-          "name": "Shadowrocket",
+          "name": "S1hadowrocket",
           "price": "2.99",
           "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/shadowrocket.png",
           "description": "A rule-based proxy utility client for iOS.",
